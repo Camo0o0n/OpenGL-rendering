@@ -1,0 +1,30 @@
+{
+  "Gameobjects": [
+    {
+      "Mesh": "Hercules.obj",
+      "MeshLocation": "Test models\\Airplane\\Hercules.obj",
+      "Texture": "Hercules_COLOR.dds",
+      "TextureLocation": "Test models\\Airplane\\Hercules_COLOR.dds",
+      "HasTexture": 1,
+      "RotationY": 180,
+      "Scale" :  2,
+      "StartPosX": 0.0,
+      "StartPosY": 10.0,
+      "StartPosZ": 0.0
+    },
+
+    {
+      "Mesh": "Car.obj",
+      "MeshLocation": "Test models\\Car\\Car.obj",
+      "Texture": "Car_COLOR.dds",
+      "TextureLocation": "Test models\\Car\\Car_COLOR.dds",
+      "HasTexture": 1,
+      "RotationY": 180,
+      "Scale": 2,
+      "StartPosX": 5.0,
+      "StartPosY": -1.0,
+      "StartPosZ": 0.0
+    }
+  ],
+  "version": "1.1"
+}
